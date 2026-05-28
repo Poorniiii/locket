@@ -1,0 +1,1 @@
+{"name":"Locket","short_name":"Locket","description":"Your private offline diary, encrypted on your device.","start_url":"/","display":"standalone","background_color":"#efe7f8","theme_color":"#6f4da8","lang":"en","scope":"/","icons":[{"src":"icons/locket.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
